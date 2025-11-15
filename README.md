@@ -75,12 +75,3 @@ O projeto é organizado em camadas simples, para reforçar conceitos de POO em J
     - Chama métodos de `SistemaVotacao`.
 
 ---
-
-## ⚙️ Tecnologias Utilizadas
-
-- **Linguagem:** Java  
-- **Interface:** Linha de comando (CLI)  
-- **Persistência:** Arquivos em disco
-- **Paradigma:** Programação Orientada a Objetos
-
----
